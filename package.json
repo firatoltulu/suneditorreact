@@ -1,10 +1,10 @@
 {
-  "name": "suneditor-react",
-  "version": "2.14.6",
+  "name": "suneditorreact",
+  "version": "1.0.0",
   "description": "A React Component for Suneditor",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mkhstar/suneditor-react"
+    "url": "https://github.com/firatoltulu/suneditorreact"
   },
   "main": "dist/main.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "word",
     "react"
   ],
-  "author": "Kusi Musah Hussein",
+  "author": "Fırat Oltulu",
   "license": "MIT",
   "peerDependencies": {
     "react": "^16.9.0",
@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "suneditor": "^2.34.3"
+    "suneditor": "^2.41.3"
   },
   "browserslist": [
     ">0.2%",
